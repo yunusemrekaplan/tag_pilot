@@ -1,6 +1,6 @@
 # TAG Pilot
 
-Mobil TAG şoförleri için geliştirilen, gelir-gider ve kazanç takibi sağlayan basit ama işlevsel bir Flutter uygulaması.
+TAG şoförleri için geliştirilen, gelir-gider ve kazanç takibi sağlayan basit ama işlevsel bir Flutter uygulaması.
 
 ## 🎯 Amaç
 
