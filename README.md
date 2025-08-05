@@ -31,8 +31,6 @@ Bu sorunları çözmek için TAG Pilot'u geliştirdim.
 |-------------|-----------|--------------|--------------|-----------|---------------|------------|----------------|----------------|
 | ![Ekran1](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/aracekle.png) | ![Ekran2](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/dash1.png) | ![Ekran3](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/paketsec.png) | ![Ekran4](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/yakitsec.png) | ![Ekran5](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/dash2.png) | ![Ekran6](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/yolculukekle.png) | ![Ekran7](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/giderekle.png) | ![Ekran8](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/raporanaliz1.png) | ![Ekran9](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/raporanaliz2.png) |
 
-> 📌 Not: `screenshots` klasörünü repo içine eklemen gerekiyor. Dosyaları yükleyebilirim istersen.
-
 ## 🛠️ Teknolojiler
 
 - Flutter
