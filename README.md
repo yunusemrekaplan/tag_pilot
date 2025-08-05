@@ -28,7 +28,7 @@ Bu sorunları çözmek için TAG Pilot'u geliştirdim.
 ## 📱 Uygulama Görselleri
 
 | Araç Ekleme | Dashboard | Paket Seçimi | Yakıt Seçimi | Dashboard | Yolculuk Ekle | Gider Ekle | Rapor & Analiz | Rapor & Analiz |
-|-------------|-----------|--------------|--------------|-----------|---------------|------------|----------------|----------------|
+|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 | ![Ekran1](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/aracekle.png) | ![Ekran2](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/dash1.png) | ![Ekran3](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/paketsec.png) | ![Ekran4](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/yakitsec.png) | ![Ekran5](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/dash2.png) | ![Ekran6](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/yolculukekle.png) | ![Ekran7](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/giderekle.png) | ![Ekran8](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/raporanaliz1.png) | ![Ekran9](https://github.com/yunusemrekaplan/tag_pilot/blob/master/screenshots/raporanaliz2.png) |
 
 ## 🛠️ Teknolojiler
