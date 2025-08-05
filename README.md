@@ -1,16 +1,47 @@
-# tag_pilot
+# TAG Pilot
 
-A new Flutter project.
+Mobil TAG şoförleri için geliştirilen, gelir-gider ve kazanç takibi sağlayan basit ama işlevsel bir Flutter uygulaması.
 
-## Getting Started
+## 🎯 Amaç
 
-This project is a starting point for a Flutter application.
+TAG şoförlüğü yaparken fark ettiğim temel bir ihtiyaca çözüm üretmek:
+- Her seferin net kazancı anlık olarak bilinmiyor.
+- Yakıt gideri, km başına maliyet gibi veriler şoför tarafından manuel hesaplanıyor.
+- Gün sonunda "ne kazandım, ne harcadım?" sorusuna net cevap alınamıyor.
 
-A few resources to get you started if this is your first Flutter project:
+Bu sorunları çözmek için TAG Pilot'u geliştirdim.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Özellikler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Yolculuk bazlı kazanç takibi
+- Otomatik net gelir hesaplama
+- Yakıt maliyeti ve başabaş nokta analizi
+- Geçmiş sefer kayıtları
+- Grafikle desteklenen haftalık/aylık özetler
+
+## 🧮 Hesaplama Mantığı
+
+- Kullanıcı sadece toplam KM ve aldığı ücreti girer.
+- Uygulama, tanımlanan `ortalama yakıt tüketimi` ve `benzin litresi fiyatı` üzerinden gideri hesaplar.
+- `Net Kazanç = Ücret - Tahmini Yakıt Gideri`
+
+## 📱 Uygulama Görselleri
+
+| Araç Ekleme | Dashboard | Paket Seçimi | Yakıt Seçimi | Dashboard | Yolculuk Ekle | Gider Ekle | Rapor & Analiz | Rapor & Analiz |
+|-------------|-----------|--------------|--------------|-----------|---------------|------------|----------------|----------------|
+| ![Ekran1](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/aracekle.png) | ![Ekran2](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/dash1.png) | ![Ekran3](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/paketsec.png) | ![Ekran4](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/yakitsec.png) | ![Ekran5](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/dash2.png) | ![Ekran6](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/yolculukekle.png) | ![Ekran7](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/giderekle.png) | ![Ekran8](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/raporanaliz1.png) | ![Ekran9](https://raw.githubusercontent.com/yunusemrekaplan/tag_pilot/main/screenshots/raporanaliz2.png) |
+
+> 📌 Not: `screenshots` klasörünü repo içine eklemen gerekiyor. Dosyaları yükleyebilirim istersen.
+
+## 🛠️ Teknolojiler
+
+- Flutter
+- Firebase (Firestore + Auth)
+- State Management: GetX
+
+## 👤 Geliştirici
+
+**Yunus Emre Kaplan**  
+📧 yunusemrekaplan1@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yunus-emre-kaplan-203b05234)  
+🐙 [GitHub](https://github.com/yunusemrekaplan)
